@@ -1,3 +1,10 @@
+# 1.0.0 (2024-09-15)
+
+
+### Features
+
+* **pantip:** first commit ([0e19d2e](https://github.com/Weerapat1993/pantip-lodash-next-js/commit/0e19d2e98748369fc4b87ce9c985f9fd0fbe91c5))
+
 # [3.57.0](https://github.com/ixartz/Next-js-Boilerplate/compare/v3.56.2...v3.57.0) (2024-09-14)
 
 
