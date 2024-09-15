@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Weerapat1993/pantip-lodash-next-js/compare/v1.1.0...v1.2.0) (2024-09-15)
+
+
+### Features
+
+* **readme:** remove theme provider ([89b170e](https://github.com/Weerapat1993/pantip-lodash-next-js/commit/89b170e66846be54fc92281e6bd0d2ad429ce841))
+
 # [1.1.0](https://github.com/Weerapat1993/pantip-lodash-next-js/compare/v1.0.0...v1.1.0) (2024-09-15)
 
 
