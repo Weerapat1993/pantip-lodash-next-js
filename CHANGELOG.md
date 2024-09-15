@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Weerapat1993/pantip-lodash-next-js/compare/v1.0.0...v1.1.0) (2024-09-15)
+
+
+### Features
+
+* **readme:** update readme.md ([ce47ac2](https://github.com/Weerapat1993/pantip-lodash-next-js/commit/ce47ac2e077607ea28147f34661c510356036ecb))
+
 # 1.0.0 (2024-09-15)
 
 
